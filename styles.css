@@ -1,0 +1,64 @@
+body{
+    background-color: hsl(47, 88%, 63%);
+}
+
+.card{
+    margin: auto auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    width: 300px;
+    background-color: white;
+    border: 1px;
+    border-radius: 15px;
+    padding: 20px;
+    font-family: Figtree;
+    font-weight: 500, 800;
+    box-shadow: 8px 8px 0 black;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.blogPic{
+    width: 100%;
+    border-radius: 10px;
+}
+
+.type{
+    background-color: hsl(47, 88%, 63%);
+    width: fit-content;
+    padding: 3px 10px 3px 10px;
+    font-weight: bolder;
+    border-radius: 3px;
+    font-size: 12px;
+}
+
+.topic{
+    font-size: x-large;
+}
+
+.user{
+    display: flex;
+}
+
+.date{
+    font-size: 12px;
+    font-weight: bold;
+    color: hsl(0, 0%, 7%);
+}
+
+.description{
+    font-size: 14px;
+    color: hsl(0, 0%, 42%);
+}
+
+.avatar{
+    width: 32px;
+    height: 32px;
+}
+
+.user p{
+    font-size: 12px;
+    padding-left: 10px;
+    font-weight: bold;
+}
