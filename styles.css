@@ -86,3 +86,8 @@ footer a{
     transition: color 0.3s;
     text-decoration: underline;
 }
+
+.user span{
+    margin-top: auto;
+    margin-bottom: auto;
+}
